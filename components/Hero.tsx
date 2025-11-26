@@ -118,7 +118,7 @@ export const Hero: React.FC = () => {
             >
               {/* Profile Image - Using Unsplash Placeholder */}
               <img
-                src="https://images.unsplash.com/photo-1725273557470-30dc0191d8d4?q=80&w=2344&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                src="https://drive.google.com/file/d/1A-Tiozh-_F9g45dJKWa6CJ52vGhBipqp/view?usp=drive_link" 
                 alt="Osama Adel"
                 className="w-full h-full object-cover"
               />
