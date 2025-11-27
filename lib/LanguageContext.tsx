@@ -191,7 +191,7 @@ const translations = {
       projectsShipped: "مشاريع تم تسليمها",
     },
     work: {
-      selectedWorks: "مختارات",
+      selectedWorks: "مختارات من المشاريع",
       featuredProjects: "مشاريع مميزة",
       description: "مجموعة من المنتجات الرقمية المصممة بدقة، وأداء عالٍ، وشغف.",
       viewArchive: "عرض الأرشيف الكامل",
@@ -241,7 +241,7 @@ const translations = {
     },
     contact: {
       openToOpp: "متاح للفرص",
-      letsBuild: "لنبدني",
+      letsBuild: "لنبني",
       theFuture: "المستقبل.",
       subtitle: "جاهز لتحويل أفكارك إلى تجارب رقمية استثنائية؟ أنا على بعد رسالة واحدة.",
       email: "البريد الإلكتروني",
